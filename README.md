@@ -44,6 +44,8 @@ https://user-images.githubusercontent.com/50610933/178931403-68dc8a4c-39b0-4c29-
 
 ### [Hackerman: Personal Task Manager Chatbot](https://github.com/AaronLuk/duke)
 #### Simple task mamanger chatbot.
+<img src="https://github.com/AaronLuk/duke/blob/master/src/main/resources/images/userGuide.png">
+
 
 ### Static Program Analyzer
 
