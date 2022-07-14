@@ -1,5 +1,4 @@
 # Hi there 👋, I am Chi Heng
-## Software Development
 I am a Computer Science graduate from the National University of Singapore with 6 months of experience in full stack iOS mobile development
 
 ## Skills and Tools
