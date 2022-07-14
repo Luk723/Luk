@@ -38,9 +38,9 @@ https://user-images.githubusercontent.com/50610933/178931266-f172d388-65b0-42bc-
 
 https://user-images.githubusercontent.com/50610933/178931403-68dc8a4c-39b0-4c29-b65f-aca873137ccf.MP4
 
-* #####SwiftUI for user interface
-* #####Core data to store user portfolio
-* #####Integrated Google Admob adbanner
+* SwiftUI for user interface
+* Core data to store user portfolio
+* Integrated Google Admob adbanner
 
 ### [Hackerman: Personal Task Manager Chatbot](https://github.com/AaronLuk/duke)
 #### Simple task mamanger chatbot.
