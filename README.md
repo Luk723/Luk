@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/50610933/178931266-f172d388-65b0-42bc-
 
 * SwiftUI for user interface
 * Combine framework to retrieve live price action
-** Used publisher and subscriber 
+  * Used publisher and subscriber 
 * Core data to store user portfolio
 * Integrated Google Admob adbanner
 
