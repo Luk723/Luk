@@ -21,7 +21,7 @@ I am a Computer Science graduate from the National University of Singapore with 
 
 # Projects
 
-### [Coin Observatory](https://apps.apple.com/tt/app/coin-observatory/id1603190325)
+## [Coin Observatory](https://apps.apple.com/tt/app/coin-observatory/id1603190325)
 
 #### Get live price action of crypto coins and keep track of your crypto holdings
 
@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/50610933/178931266-f172d388-65b0-42bc-
 * Core data to store user portfolio
 * Integrated Google Admob adbanner
 
-### [Profit Tracker: Track your profits](https://apps.apple.com/sg/app/profit-tracker-track-profits/id1606201584)
+## [Profit Tracker: Track your profits](https://apps.apple.com/sg/app/profit-tracker-track-profits/id1606201584)
 #### An app to streamline the documentation of your trades.  This app also gives overview of your trades
 
 https://user-images.githubusercontent.com/50610933/178931403-68dc8a4c-39b0-4c29-b65f-aca873137ccf.MP4
@@ -42,13 +42,13 @@ https://user-images.githubusercontent.com/50610933/178931403-68dc8a4c-39b0-4c29-
 * Core data to store user portfolio
 * Integrated Google Admob adbanner
 
-### [Hackerman: Personal Task Manager Chatbot](https://github.com/AaronLuk/duke)
+## [Hackerman: Personal Task Manager Chatbot](https://github.com/AaronLuk/duke)
 #### Simple task mamanger chatbot.
 <img src="https://github.com/AaronLuk/duke/blob/master/src/main/resources/images/userGuide.png">
 * Coded in Java
 
 
-### Static Program Analyzer
+## Static Program Analyzer
 
 
-### [Module Admin Manager](https://github.com/AaronLuk/MAMS)
+## [Module Admin Manager](https://github.com/AaronLuk/MAMS)
