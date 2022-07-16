@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/50610933/178931266-f172d388-65b0-42bc-
 * Core data to store user portfolio
 * Integrated Google Admob adbanner
 
-#### I created this application to get acquainted with iOS development, RESTful API, iOS Combine framework and MVC architecture.  I also used this project to learn to integrate third party features like Google Admob (I made a grand total of 20cents from ads).  
+#### I created this application to get acquainted with iOS development, RESTful API, iOS Combine framework and MVC architecture.  I also used this project to learn to integrate third party features like Google Admob
 
 ## [Profit Tracker: Track your profits](https://apps.apple.com/sg/app/profit-tracker-track-profits/id1606201584)
 #### An app to streamline the documentation of your trades.  This app also gives overview of your trades
