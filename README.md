@@ -1,6 +1,8 @@
 # Hi there 👋, I am Chi Heng
 I am a Computer Science graduate from the National University of Singapore with 6 months of experience in full stack iOS mobile development
 
+I have experience developing in MVC/MVVM architecture.
+
 ## Skills and Tools
 * SWIFT / SWIFTUI / COMBINE
 * GOLANG 
