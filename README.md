@@ -58,3 +58,15 @@ https://user-images.githubusercontent.com/50610933/178931403-68dc8a4c-39b0-4c29-
 ## Static Program Analyzer
 
 ## [Module Admin Manager](https://github.com/AaronLuk/MAMS)
+
+
+
+####At the beginning of every semester, NUS appeal administrators process thousands of module appeals filed by students in a matter of weeks. To ease their burden and speed up the appeal process, we created: MAMS (Module Appeal Management System)
+
+<img src="https://github.com/AaronLuk/MAMS/blob/master/docs/images/Ui.png">
+
+####With MAMS, solving module appeals becomes easier. Our application provides quick access to relevant information to help decide the administrator decide the result for the appeal. As an appeal administrator, you may:
+
+* View the appeal details and corresponding module clashes at one glance.
+* View a student’s particulars and modules taken.
+* Add and remove modules for a student as well as change their Module Credit limits.
