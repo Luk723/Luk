@@ -12,6 +12,7 @@ I have experience developing in MVC/MVVM architecture.
 * FIGMA, UIUX
 * GITHUBACTIONS
 * RESTFUL API PROGRAMMING
+* DOCKER, AWS
 
 - 🔭 I’m currently working on Capybara, a social media startup that encourages users to engage in real life activities to build organic relationships and create memories 
 
