@@ -6,6 +6,7 @@ I have experience developing in MVC/MVVM architecture.
 ## Skills and Tools
 * SWIFT / SWIFTUI / COMBINE
 * React, Redux, ReactJS
+* Flutter, Dart
 * GOLANG 
 * SQL, POSTGRESQL
 * HTML, CSS, JS
